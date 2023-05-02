@@ -1,0 +1,21 @@
+C:\Users\FEEV\source\repos\EjemploServidor\EjemploServidor\bin\Debug\EjemploServidor.exe.config
+C:\Users\FEEV\source\repos\EjemploServidor\EjemploServidor\bin\Debug\EjemploServidor.exe
+C:\Users\FEEV\source\repos\EjemploServidor\EjemploServidor\bin\Debug\EjemploServidor.pdb
+C:\Users\FEEV\source\repos\EjemploServidor\EjemploServidor\obj\Debug\EjemploServidor.csprojAssemblyReference.cache
+C:\Users\FEEV\source\repos\EjemploServidor\EjemploServidor\obj\Debug\EjemploServidor.exe
+C:\Users\FEEV\source\repos\EjemploServidor\EjemploServidor\obj\Debug\EjemploServidor.pdb
+C:\Users\lopez\Desktop\Interfaces Gráficas con aplicaciones\EjemploServidor\EjemploServidor\bin\Debug\EjemploServidor.exe.config
+C:\Users\lopez\Desktop\Interfaces Gráficas con aplicaciones\EjemploServidor\EjemploServidor\bin\Debug\EjemploServidor.exe
+C:\Users\lopez\Desktop\Interfaces Gráficas con aplicaciones\EjemploServidor\EjemploServidor\bin\Debug\EjemploServidor.pdb
+C:\Users\lopez\Desktop\Interfaces Gráficas con aplicaciones\EjemploServidor\EjemploServidor\obj\Debug\EjemploServidor.csproj.AssemblyReference.cache
+C:\Users\lopez\Desktop\Interfaces Gráficas con aplicaciones\EjemploServidor\EjemploServidor\obj\Debug\EjemploServidor.csproj.CoreCompileInputs.cache
+C:\Users\lopez\Desktop\Interfaces Gráficas con aplicaciones\EjemploServidor\EjemploServidor\obj\Debug\EjemploServidor.exe
+C:\Users\lopez\Desktop\Interfaces Gráficas con aplicaciones\EjemploServidor\EjemploServidor\obj\Debug\EjemploServidor.pdb
+C:\Users\user\Desktop\socket con dos clientes\EjemploServidor\EjemploServidor\bin\Debug\EjemploServidor.exe.config
+C:\Users\user\Desktop\socket con dos clientes\EjemploServidor\EjemploServidor\bin\Debug\EjemploServidor.exe
+C:\Users\user\Desktop\socket con dos clientes\EjemploServidor\EjemploServidor\bin\Debug\EjemploServidor.pdb
+C:\Users\user\Desktop\socket con dos clientes\EjemploServidor\EjemploServidor\obj\Debug\EjemploServidor.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\socket con dos clientes\EjemploServidor\EjemploServidor\obj\Debug\EjemploServidor.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\socket con dos clientes\EjemploServidor\EjemploServidor\obj\Debug\EjemploServidor.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\socket con dos clientes\EjemploServidor\EjemploServidor\obj\Debug\EjemploServidor.exe
+C:\Users\user\Desktop\socket con dos clientes\EjemploServidor\EjemploServidor\obj\Debug\EjemploServidor.pdb
